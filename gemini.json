@@ -1,0 +1,302 @@
+{
+    "Variables":
+    {
+    "Digestion":["left","right"],
+    "Environment":["left","right"],
+    "Awareness":["left","right"],
+    "Perspective":["left","right"]
+    },
+    "Type":
+    {  
+    "Manifesting Generator":"You are the builder, the doer, the creator, and you are here to do and build what you love and love what you do and build, moving fast and skipping steps, so you find efficient shortcuts to take to others.",
+    "Generator":"You are the builder, the doer, the creator, and you are here to make and build what you love and love what you make and build, unlocking different levels towards your mastery and showing others that work can be fulfilling and pleasurable.",
+    "Manifestor":"You are the pioneer, the innovator, the initiator, and you are here to materialise your inspiration, to bring it into reality, taking action on your creative urges and initiating others with your visions and your unstoppable energy.",
+    "Projector":"You are the guide, the manager, the advisor, and you are here to direct and manage others' energy and to show them how to be more efficient and productive thanks to your ability to read and understand others.",
+    "Reflector":"You are the guide, the manager, the advisor, and you are here to direct and manage others' energy and to show them how to be more efficient and productive thanks to your ability to read and understand others."
+    },
+    "Strategy":
+    {
+    "To Respond":"To ensure that you enter situations that are correct for you, ideally, rather than taking the initiative, you need to wait for your Sacral to respond to any kind of signal, situation or person. The response may come in the form of a sound (uh-huh, uh-uh), grunt, internal feeling or unconscious movement.",
+    "To Inform":"To ensure that you enter situations that are correct for you, ideally, before taking action and moving, it would be good for you to take a moment to think about who will be affected by that action and inform them of what you are going to do or not do.",
+    "Wait for the Invitation":"To ensure that you enter situations that are correct for you, ideally, instead of taking the initiative and whenever it involves an exchange of energy with another person, you need to wait for the other person to come and ask you or invite you to participate.",
+    "Wait a Lunar Cycle":"Wait a Lunar Cycle"
+    },
+    "Authority":
+    {
+    "Emotional-Solar Plexus":"To ensure that you make the correct decisions for you, you need to wait, go through your emotional wave and reach emotional clarity before deciding rather than making decisions from the highs and lows of your emotional wave, that is, from euphoria, nerves or sadness.",
+    "Sacral":"To ensure that you make the correct decisions for you, you need to wait and respond to life from your Sacral. Its guttural sounds (uh huh, uh uh), sighs, grunts, feeling of energetic expansion or block, unconscious movement... will tell you that you have, or not, energy available for it.",
+    "Splenic":"To ensure that you make the correct decisions for you, you need to learn to respect your intuitive first impression, despite the doubts that may arise, because your intuition and survival instinct will tell you whether or not something or someone is healthy for you and your intuition is spontaneous, in the now and doesn't repeat.",
+    "Ego Manifested":"To make sure you make the right choices for you, you have to go for what you feel you have the willpower for, you will feel it as a power flaring up inside you ready for you to use it. Pay attention to what you express in the moment because even though the ego has no voice, you will hear whether there is strength in your voice or not.",
+    "Self Projected":"Self Projected",
+    "Ego Projected":"To ensure that you make the correct decisions for you, you need to go for what you feel you have the willpower for, when invited. It will feel like a power flaring up inside you ready for you to use it and an internal need to be first and initiate the experience.",
+    "None":"None"
+    },
+    "Signature":
+    { 
+    "Satisfaction":"When you are on the right track, what you feel is a huge sense of satisfaction, pure and simple satisfaction. You enjoy what you are doing, the time flies by, you feel good about how you have spent your time and efforts.",
+    "Peace":"When you are on the right track, what you feel is a great sense of peace both with yourself and with others. Everything flows smoothly and without resistance, you feel free to be, do and say what you want without causing misunderstandings.",
+    "Success":"When you are on the right track, what you feel is an enormous inner sense of success. You feel listened to and recognised by others, you feel that you are enough and that others see you for who you are and how you can help them.",
+    "Surprise":"Surprise"
+    },
+    "NotSelfTheme":
+    {
+    "Frustration":"Frustration is the signal that you are off track and that you are committing your energy in the wrong way and to things that aren’t correct for you. You feel drained, without energy to work, without strength, exhausted, as if you have run out of battery.",
+    "Anger":"Anger is the sign that indicates that you are out of place and that you prevent yourself from doing and saying things the way you want to in order not to upset or hurt others or to go against your freedom. You feel exhausted, without the strength to go on, without emotion.",
+    "Bitterness":"Bitterness is the sign that you are off track and that you are committing your energy to the wrong people and situations. You don't feel recognised or taken into account, you feel unseen, depleted of energy.",
+    "Disappointment":"Disappointment"
+    },
+    "Definition":
+    {
+    "NoDefinition":"NoDefinition",
+    "Single Definition":"All your defined centres are connected to each other, so energy flows constantly between them and this helps you to process information faster and self-sufficiently.",
+    "Split Definition":"You have two unconnected areas of definition, so there is no energy flow or constant communication between them. You will need someone to bring these two areas together and give you time to process information and make decisions.",
+    "Triple Split Definition":"Triple Split Definition",
+    "Quadruple Split Definition":"Quadruple Split Definition"
+    },
+    "Digestion":
+    {
+    "Alternating":"Alternating",
+    "Closed":"To digest food and information well and more efficiently, for you, being selective is key. No matter how complex or simple the meal, the important thing is that you have meals to choose from so that you can select and not force yourself to eat something you don't like or to try new meals.",
+    "Cold":"Cold",
+    "Nervous":"In order to digest food and information well and efficiently, your environment is key for you. You are very sensitive to external stimulation, so you need to move around while eating or eat in an environment that is visually stimulating or where you are surrounded by people.",
+    "Low":"In order to digest food and information well and efficiently, the volume of your environment is key for you. You are very sensitive to sound, so you need to be quiet or find just the right amount of noise so that nothing disturbs you and try not to talk while you eat.",
+    "InDirect":"To digest food and information well and effectively, the light in your environment is key for you. You are very sensitive to the type of light, so you will absorb nutrients better if you eat somewhere out of direct sunlight during the day and in indirect light at night.",
+    "Consecutive":"In order to digest both food and information well and more efficiently, for you, simplicity is key. Ideally, take one ingredient and then another, or prepare one ingredient and then the other, without alternating or mixing them, and keep everything as simple as possible.",
+    "Open":"In order to digest food and information well and more efficiently, being selective is key for you. No matter how complex or simple the meal is, the important thing is that you have meals to choose from so that you can select and that you remain open to trying new meals, but without forcing yourself to eat something you don't like.",
+    "Hot":"Hot",
+    "Calm":"In order to digest food and information well and more efficiently, your environment is key for you. You are very sensitive to external stimulation, so you need to be calm and/or alone while eating or eat in a calm and soothing or calming environment.",
+    "High":"In order to digest food and information well and efficiently, the volume of your environment is key for you. You are very sensitive to sound, so you need noise around you that is pleasant and stimulating, and you need to have conversations while you eat.",
+    "Direct":"Direct"
+    },
+    "Sense":
+    {
+    "Security":"Your mind needs to feel secure, so it will try to deal with the unknown by gathering information and always finding ways to protect itself, as well as having the ability to know whether or not someone feels secure and what they need or need to do to feel that way.",
+    "Uncertainty":"You know that everything happens when it's supposed to happen, even if you have to wait. You are aware of when something might not be true or lead nowhere and when it does. It's as if you could filter out the truth and understand what others don't understand.",
+    "Action":"Your mind is always thinking about what can be done with what is in front of you and how, who does what, what steps to take to get somewhere, what comes first, how to do things... Everything related to strategic action analysis.",
+    "Meditation":"Your mind needs to live the experiences, observe the world and store what it needs without you being able to control the process, and then, in a meditative state of calm and reflection, access that information without any kind of pressure.",
+    "Judgment":"Your mind is always reviewing, comparing, contrasting and analysing the information it has about experiences or people in order to create its opinions and judgements about them, whether they are correct or not.",
+    "Acceptance":"Your mind accepts experiences, people, situations as they are, without trying to change them, fully respecting their nature and accepting that there are things it can do nothing about."
+    },
+    
+    "Cognition":
+    {
+    "Inner Vision":"The sense that allows you to sensorially experience the information that comes to you is the inner vision. Minimalism and practicality is the key for you. You don't need anything external to stimulate you, allow yourself to close your eyes and go inside, visualise food, things, words or people to know if they are for you or not.",
+    "Outer Vision":"The sense that allows you to sensorially experience the information that comes to you is sight. For you, the fact that food, things, words or people, for example, are attractive and visually stimulating is everything, it lets you know whether or not they are for you.",
+    "Smell":"The sense that allows you to sensorially experience the information that comes to you is smell. How food, things, words or people smell to you, for example, helps you identify whether or not they are healthy and beneficial to you and if they make you feel safe.",
+    "Touch":"The sense that allows you to sensorially experience the information coming to you is touch. How food, people, things or words, for example, feel to your skin helps you to identify whether or not they are good for you.",
+    "Taste":"The sense that allows you to sensorially experience the information that comes to you is taste. How food, things, words or people taste to you, for example, helps you identify whether or not they are for you and allows you to be selective about what you taste.",
+    "Feeling":"The sense that allows you to sensorially experience the information that comes to you is feeling. You are very sensitive and can pick up the frequencies, vibrations and energies of different places, things, foods or people to sense whether or not they are good for you."
+    },
+    "Environment":
+    {
+    "Caves":"The most nurturing environment for you and the one that will help you realise your potential, as long as you follow your Strategy and Authority, will be one that makes you feel safe and secure and where there is only one way in and you see and control at all times who enters, who leaves and when.",
+    "Markets":"The most nurturing type of environment for you that will help you realise your potential, as long as you follow your Strategy and Authority, is one in which you find new things, things you like, and which is related to business or the exchange of energy, goods or resources.",
+    "Kitchens":"The most nourishing kind of environment for you and that will help you to realise your potential, as long as you follow your Strategy and Authority, will be one that is more or less humid, where you can gather with all kinds of people and where the transformation of something into something else takes place.",
+    "Mountains":"The most nurturing type of environment for you and the one that will help you to realise your potential, as long as you follow your Strategy and Authority, will be the one that allows you to be higher than others, where you can see the big picture below and where you decide with whom you communicate.",
+    "Valleys":"The most nurturing type of environment for you that will help you realise your potential, as long as you follow your Strategy and Authority, is one that is at street level where you can see what is happening and connect with who and what is around you.",
+    "Shores":"The most nurturing kind of environment for you and the one that will help you develop your potential, as long as you follow your Strategy and your Authority, will be a place that is on the edge between two completely different places or from which you can look towards a completely different place than the one you are in at the moment."
+    },
+    "profile":
+    {
+    "1-3":"You progress in this life by researching and delving deeper into what interests you until you create a solid knowledge base and formulate a theory. When you have this, you move on to the testing phase where you test it, and through this process, you are able to refine your theory until it works.",
+    "1-4":"You progress in this life by researching and deepening your interests until you create a solid knowledge base and formulate a theory. When you have it, you get others to test it, and with their feedback, you are able to refine your theory until it works.",
+    "2-4":"You progress in this life through your natural gift that attracts others, causing them to seek you out and call on you. Through the correct calls from your network, you will gain confidence in your talent and have the opportunity to put it at the service of others.",
+    "2-5":"You progress in this life thanks to your natural gift that attracts others, causing them to seek you out and call you. Through the correct calls, you will gain confidence in your talent and learn to apply it in the form of practical solutions to help others.",
+    "3-5":"You progress in this life by trial and error, bumping into things and discovering what doesn't work until you finally find what does work. It is then that you are able to universalise it and offer that discovery in the form of practical solutions to solve a general problem.yu",
+    "4-6":"You progress in this life through the various opportunities that arise from your inner circle and your network of contacts thanks to your people skills, your charisma and your influence, seizing each new opportunity to share with them your truth, your vision or your perspective and to guide them, objectively, from the age of 50 onwards.",
+    "5-1":"You progress in this life by establishing your leadership through your practical and effective solutions in times of crisis, revolution or transition. Solutions based on long and thorough research, which can take years, and an insatiable search for facts to support the results.",
+    "6-2":"Your progression in life is divided into three stages. Up to the age of 30, you will try a thousand ways to use your innate gift without much success. At 30, your body will ask you to retire, rest and observe others to gain objectivity about that talent and how to use it, and from 50 onwards, you will know exactly how to guide, objectively, others with it."
+    },
+    "Incarnation Cross":
+    {
+    "38-39+48-21":"Right Angle Cross of Tension, You are here to fight for something worthwhile and meaningful in your life, provoking others with your insatiable search for purpose and showing them that the struggle is something they have to deal with because, if it is the right one, it always brings purpose.",
+    "19-33+1-2":"Left Angle Cross of Refinement, You are here to show everyone that the right direction in life is one that offers them the long haul, one where they always have what they need and not the one that solves the problem on a punctual basis, while expressing yourself creatively and creating beauty for all to see."
+    },
+    "Not-Self Theme":
+    {
+    "Bitterness":"Bitterness is the sign that you are off track and that you are committing your energy to the wrong people and situations. You don't feel recognised or taken into account, you feel unseen, depleted of energy.",
+    "Anger":"Anger is the sign that indicates that you are out of place and that you prevent yourself from doing and saying things the way you want to in order not to upset or hurt others or to go against your freedom. You feel exhausted, without the strength to go on, without emotion.",
+    "Frustration":"Frustration is the signal that you are off track and that you are committing your energy in the wrong way and to things that aren’t correct for you. You feel drained, without energy to work, without strength, exhausted, as if you have run out of battery"
+    },
+    "Motivation":
+    {
+    "Guilt":"When you are in the right environment for you and you see the world as you are meant to, you are driven by the right motivation, and in your case, it is Guilt. You see what needs to be fixed and you are driven to do it, to get into things, take action and fix what needs to be fixed to make it better.",
+    "Desire":"When you are in the right environment for you and you see the world as you are meant to do, you are driven by the right motivation, and in your case, it is Desire. Desire for power, for leadership and control. You are driven by everything in the material plane, by being someone important, by organising everything, by deciding who goes before and who goes after.",
+    "Need":"When you are in the right environment for you and you see the world as you are meant to do, you are driven by the right motivation, and in your case, it is Need. This is a very specific motivation. You are driven by what you need to have, know, think or do, so you narrow it down until you get to that real need and know exactly what is needed.",
+    "Innocence":"When you are in the right environment for you and you see the world as you should, you are driven by the right motivation, and in your case, it is Innocence. You have no hidden agenda behind your actions. You do what you want, when you want and because you want, just like that. You go about your business and don't care what happens around you.",
+    "Hope":"When you are in the right environment for you and you see the world as you are meant to do, you are driven by the right motivation, and in your case, it is Hope. And it's not blind hope, but you know what to expect and you trust that it will happen, so you know when to act and when not to act, because you can see something that others can't, what is going to happen.",
+    "Fear":"When you are in the right environment for you and you see the world as you are meant to do, you are driven by the right motivation, and in your case, it is Fear. Fear of the unknown, that's why you're driven to try to understand everything, to get to the bottom of things, to investigate, to go deeper... always looking to make sense of it all to feel safe and secure."
+    },
+    "Perspective":
+    {
+    "Possibility":"When you are in the right environment for you, you see the world as you are meant to. And in your case, you are meant to see everything related to the possibilities of everything and the potential of things and people, whether positive or negative.",
+    "Probability":"When you are in the right environment for you, you see the world as you are meant to. And in your case, you are meant to see everything related to probabilities. Thanks to your realistic and focused perspective, you can see what has all the numbers to happen, how things will go.",
+    "Personal":"When you are in the right environment for you, you see the world as you are meant to. And in your case, you are meant to see everything through your own context and process, what that something or that person means to you, what it implies from your point of view and for you.",
+    "Wanting":"When you are in the right environment for you, you see the world as you are meant to do. And in your case, you are meant to see everything related to what people lack and/or want, the need that really exists, the opportunities for exchange, who is useful and who is not.",
+    "Power":"When you are in the right environment for you, you see the world as you are meant to. And in your case, you are meant to see everything related to power and the material plane: who is up and who is down, who is winning and who is losing, who is misusing their power.",
+    "Survival":"When you are in the right environment for you, you see the world as you are meant to. And in your case, you are meant to see everything related to survival: what can survive, what it takes to do so, the fears, insecurities."
+    },
+    
+    "Centers":
+    {
+    "Root":{
+    "gates": ["53", "60", "52", "19", "39", "41", "58", "38", "54"],
+    "meaning":"With the Root Centre defined, you are always under constant pressure to do, your pace and speed are always the same and you have a fixed and consistent internal way of dealing with physical and emotional stress and processing the pressure to survive and stay healthy on all levels."
+    },
+    "Sacral":{
+    "gates":["14", "29", "59", "9", "3", "42", "27", "34","5"],
+    "meaning":"Do I know when enough is enough? With an undefined Sacral, your energy and rhythm are inconsistent, so when you absorb that energy from others and amplify it, you start doing, pushing and forcing without knowing when to stop or being able to determine when enough is enough, which ends up leading to burnout. Use your Strategy and Authority to know when and what work to commit to."
+    },
+    "Splenic":{
+    "gates":["48", "57", "44", "50", "32", "28", "18"],
+    "meaning":"Having the Splenic Centre defined indicates that you have constant and spontaneous access to your intuition, instinctive hunches and first impressions that allow you to react in the now, feel safe, survive and stay healthy, if you fully trust them."
+    },
+    "Solar Plexus":{
+    "gates": ["6", "37", "22", "36", "30", "55", "49"],
+    "meaning" : "With the Solar Plexus Centre defined, you have the ability to experience the full spectrum of emotions and moods in the form of an emotional wave and tint everything around you with it, so for you there is no truth in the now and you need to seek emotional clarity before making decisions."
+    },
+    "Heart":{"gates": ["21", "40", "26", "51"],
+    "meaning":"Am I still trying to prove something to myself and others? With an undefined Heart, your willpower is inconsistent and that affects your self-esteem, so you push yourself to do more, be more and generate more than others, while settling for less, trying to overcompensate for what you feel you lack so that others see what you are worth. Use your Strategy and Authority to compromise and accept that you have nothing to prove."
+    },
+    "Center":{
+    "gates": ["1", "13", "25", "46", "2", "15", "10", "7"],
+    "meaning":"Am I still searching for who I am and my direction? With an undefined G-Centre, you are obsessed with who you are and where you are going, so you desperately try to find labels that define you in order to feel secure rather than accepting that you are depending on who you are with and what is needed from you. Wait for others to initiate you and use your Strategy and Authority to find the correct places that will lead you to find out who you are."
+    },
+    "Throat":{
+    "gates": ["62", "23", "56", "35", "12", "45", "33", "8", "31", "20", "16"],
+    "meaning":"Having the Throat Centre defined indicates that you have a fixed and reliable style and rhythm of communicating, acting and moving, that you are designed to attract attention in your own way, and that everything you say will be influenced by whatever Centre you have connected to it: thoughts, emotions, etc."
+    },
+    "Ajna":{
+    "gates": ["47", "24", "4", "17", "43", "11"],
+    "meaning":"Am I trying to convince everyone that I am confident? With an undefined Ajna, you don&#039;t have a fixed and consistent way of thinking, retaining or processing information, which makes you feel insecure about whether or not you will be able to express what you think, and you try to compensate for this uncertainty by being too fixed and rigid in your thoughts, conclusions or opinions. Wait to be asked and use your Strategy and Authority to share what you think."
+    },
+    "Head":{
+    "gates": ["64", "61", "63"],
+    "meaning":"Am I thinking about things that don&#039;t matter? With an undefined Head Centre, inspiration comes to you from your environment, so you are always under pressure, either from all the ideas that come at once or from not being inspired when your mind tells you that you need to be, and this causes a craving for knowledge, confusion and doubt to take over and you losing focus on what really matters. Use your Strategy and Authority to keep your focus on the important things."
+    },
+    "Channels":
+    {
+    "61-24":"Thanks to your moments of pure intuition, you are able to know the mysteries of life, to discern the truth and come to a deep understanding from the integrity to rationalise it and make it understandable to others.",
+    "64-47":"You have spontaneous moments of clarity in which you make sense of confusion thanks to your ability to see, separately, all the pieces that make up a whole and to see clearly how they fit together when you least expect it.",
+    "63-4":"You search and search and search, find and analyse. You are able to predict what is going to happen, asking questions, taking into account current data and recognising patterns, opening up a world of possibilities.",
+    "17-62":"You have the ability to easily study any complex structure and, once understood, organise the information and explain its essence to others, in plain language and using examples of everyday patterns to make it understandable.",
+    "11-56":"Your curiosity and your state of constant searching mean that you are always finding new insights into common situations which you then pass on to others in the form of stimulating stories and advice.",
+    "43-23":"You see the big picture and new paths and break it all down easily to bring structure and efficiency to the lives of others, thanks to your ability to explain it easily and clearly so that others can assimilate it.",
+    "16-48":"This energy gives you access to the skills, knowledge and resources to deepen the Mastery of your talent through dedication and constant repetition so that you can enhance the lives of others with it.",
+    "57-20":"You know what to do and/or what to say in the moment without having to think it through, by pure intuition, and getting to the truth or the bottom of a situation long before everyone else.",
+    "20-10":"You impact, influence and inspire others by simply being yourself and maintaining your integrity no matter what. This is how you empower and invite them to wake up and be the most authentic and pure version of themselves at all times, whatever it takes.",
+    "20-34":"By responding from your Sacral, you bring your power and energy into the present moment and no one can stop you, which gives you the ability to move others towards their goals, as long as it is in response.",
+    "34-10":"In response, you show the most empowered version of yourself, thus empowering others to feel comfortable being themselves and activating in others their own sense of uniqueness.",
+    "57-10":"Your life is a journey of perfecting what makes you you, following your intuition, your talent and your desire to create art and beauty, you adapt, survive and invite others to find the courage to live by being themselves.",
+    "57-34":"You have the ability to bring change and to be very quick to take action from your Sacral, as your intuition guides your every step, helping you to bring back to life those who have given up or lost their power.",
+    "26-44":"You have the ability to improve or replace old concepts with new ones, particularly on a material level, because of your ability to understand the lessons of the past, to bring them to the attention of your community, and to pass on those lessons.",
+    "7-31":"You are a born leader focused on leading those who accept your leadership in a common direction, always seeking their well-being, using your innate abilities to influence, direct and get others to follow you.",
+    "1-8":"You inspire others to be themselves by living your uniqueness and leading by example. You attract the attention of others naturally, when you live freely from your individuality, without conditioning or outside influence.",
+    "13-33":"You are designed to listen to the stories of others, reflect on them so that you can learn from their experiences and share those lessons with others so that they have the opportunity to reflect as well.",
+    "15-5":"You have the ability to assess the situation, after a drastic disruption of the patterns, and analyse and evaluate the situation to see if it is better to rebuild or start again, readjusting direction, if necessary.",
+    "2-14":"Thanks to your Sacral responses, you will always be on the right path for you and have the potential to empower others and point them in the right direction for them, making you a human compass.",
+    "46-29":"You have an innate ability to bring transformation to others by sharing with them what you discover in each of your experiences. Because of your high level of commitment, you succeed where others fail.",
+    "25-51":"You have the ability to initiate others into new territories and experiences because of your high level of competitiveness, your need to always be first in everything you do, and your desire to always go beyond limitations.",
+    "21-45":"You have the resources you need to succeed materially: willpower, control capacity, and the ability to attract the right support or sponsor to achieve that end while maintaining your independence by learning to delegate tasks.",
+    "37-40":"You are able to form communities in which everyone has their place and role, receives honour and respect, and everyone feels part of a larger whole. And you do it by creating deals to hold it together and making it work and live together.",
+    "12-22":"When your mood and timing are right, you are able to empower change in others and cause them to experience a wide range of emotions through what you say and/or write.",
+    "35-36":"You have a talent for seeking out new adventures and experiences that promise something better in life and accumulating wisdom to make available to others in the form of advice and stories to inspire them to join you on your adventure.",
+    "27-50":"Caring, altruism, compassion, and support come innately to you, but in order for you to care for others, you must first take care for yourself or you will not have the strength and health to do so.",
+    "32-54":"You are an ambitious person destined to do something great, able to turn any activity into material goods because of your ability to evaluate any activity and see the time and resources needed and whether the reward is worth the effort.",
+    "28-38":"You feel pressure to find your own way, so you tirelessly seek out new experiences and risks that will give meaning to your life no matter how much you struggle to achieve them.",
+    "18-58":"You have an innate ability to see what is wrong or can be improved around you and suggest improvements by expressing your judgements and offering advice in order to correct and fix it in the name of perfection.",
+    "42-53":"You are designed to engage with experiences from your Sacral and live each one fully, from beginning to end, and then look back and see how you or whomever you initiate into the experience has matured.",
+    "3-60":"You see all the possibilities of the old ways of doing, concepts, beliefs... and you improve those that have the most potential, generating change by bringing together the new with the old and bringing order to help others to accept it.",
+    "9-52":"You have the design of a person with incredible determination to concentrate, focus, learn, apply and master the details of the process, system, etc. until the patterns can be established as normal for others.",
+    "59-6":"You are a person who needs deep, honest and intimate relationships, being present with each other, allowing the other to know you and you to know them, out of whose union something new (baby, project, friendship...) can emerge.",
+    "19-49":"You have the ability to feel, understand and communicate the pain of others, connecting individual pain with the general feeling to give voice to common discontent and start a revolution, when the principles you stand for are not fulfilled.",
+    "39-55":"You have the ability to influence the emotions of others, even changing their moods depending on your own, because you unconsciously provoke emotions in others to find the right people for you.",
+    "41-30":"You are destined to fulfil your dreams because of your ability to explore feelings and desires and to recognise the most important desire among all those that only cloud it in order to focus your energy on making it happen."
+    },
+    "Planets":
+    {
+    "Sun":"The Sun represents the essence of your individuality, self-expression and vitality. Your ego and sense of personal identity. The essence of the purpose and leadership you are called to live. Your will and the source of your actions.",
+    "Earth":"Earth is related to what grounds you and helps you to evolve. Your sense of purpose. What gives you stability. Fertility and the quality that helps you grow as a person. The quality that helps you live the energy of the Sun.",
+    "North Node":"The North Node is the theme of your life in your 40s and beyond. Where you are going. Areas of growth and what you are called to learn and master to fulfill your soul&#039;s mission. How you put into practice and express the skills and experience you have acquired",
+    "South Node":"The South Node is the theme of your life up to the age of 40. Where you come from and the qualities that are natural to you. Innate lessons and wisdom. It is your comfort zone, what you already know how to do and are comfortable doing.",
+    "Moon":"The Moon represents your unconscious motivating force that directs and moves the energy of the Sun. The &quot;why&quot; behind your purpose and Strategy. Everything to do with feelings, intuition and instincts.",
+    "Mercury":"Mercury is related to the essential concepts you are here to express and if you don&#039;t, you feel pressure. It&#039;s your communication style. What you are here to teach and share with others. Everything mental (thoughts, ideas, processes, reasoning...).",
+    "Venus":"Venus represents your moral value system, your ethical code, ideals and standards. As well as your ideals of art, beauty and everything related to aesthetics. Also, what you are attracted to, what you like and the way you attract what you want to you.",
+    "Mars":"Mars is related to your determination, drive, motivation and actions. It&#039;s the uncontrollable way of acting in situations of pressure, conflict or stress. Areas where you need to mature and grow in order to gain wisdom.",
+    "Jupiter":"Jupiter represents your opportunities for expansion, rewards and everything related to the material plane. Here, Venus&#039; values become Laws and if you follow your Strategy and Authority and keep your own laws, you will be rewarded.",
+    "Saturn":"Saturn has everything to do with discipline, limitations, challenges and inner rules. It represents the punishment for living out of alignment. If you do not follow your Strategy and Authority and do not keep the Laws of Jupiter, you will find resistance and suffering here.",
+    "Uranus":"Uranus represents revolution, change, transition, instability and individuality. It is that unusual and rebellious quality that makes you different from others. How you express your unique eccentricity, whether in behaviour, communication or thought.",
+    "Neptune":"Neptune is related to imagination, dreams and the psyche. Neptune`s energy remains hidden and invites you to surrender to the mystery of what is without questioning, so that you can share that gift with others and not fall into confusion or illusions.",
+    "Pluto":"Pluto brings the unconscious to the surface and represents your Truth and your process for exploring that Truth. Represents the lesson needed to find light in the darkness. How you grow and evolve. It is all about rebirth and transformation."
+    },
+    "pulses":
+    [
+    "1", 
+    "43", 
+    "14", 
+    "34", 
+    "9", 
+    "6", 
+    "26", 
+    "11", 
+    "10", 
+    "58", 
+    "38", 
+    "54", 
+    "61", 
+    "60", 
+    "41", 
+    "19", 
+    "13", 
+    "49", 
+    "30", 
+    "55",
+    "37", 
+    "63", 
+    "22", 
+    "36", 
+    "25", 
+    "17", 
+    "21", 
+    "51", 
+    "42", 
+    "3", 
+    "27", 
+    "24", 
+    "2", 
+    "23", 
+    "8", 
+    "20", 
+    "16", 
+    "35", 
+    "45", 
+    "12",
+    "15", 
+    "52", 
+    "39", 
+    "53", 
+    "62", 
+    "56", 
+    "31", 
+    "33", 
+    "7", 
+    "4", 
+    "29", 
+    "59", 
+    "40", 
+    "64", 
+    "47", 
+    "6", 
+    "46", 
+    "18", 
+    "48", 
+    "57",
+    "32", 
+    "50", 
+    "28", 
+    "44"
+    ]
+    
+    }
+    }
+    
